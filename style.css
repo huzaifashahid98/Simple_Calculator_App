@@ -1,0 +1,35 @@
+.main{
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 400px;
+    margin-top: 150px;
+}
+.screen_css{
+    border: 5px solid black;
+    background-color:grey;
+    width: 388px;
+}
+.num_btn
+{
+    border: 1px solid black;
+    width: 100px;
+    margin-top: 1px;
+}
+.UP_btn1{
+    width: 50px;
+    border: 3px solid grey;
+    margin-top: 5px;
+}
+.UP_btn2{
+    width: 340px;
+    border: 3px solid grey;
+    margin-left: 4px;
+}
+.opr_btn{
+    border: 1px solid black;
+    width: 75px;
+}
+.bottom_btn{
+    width: 100px;
+    border: 1px solid black;
+}
